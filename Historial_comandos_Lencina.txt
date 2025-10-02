@@ -1,0 +1,101 @@
+whoami
+pwd
+ssh-keygen -t ed25519
+pwd
+ls -l
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+cat id_ed25519
+pwd
+cd ..
+$home
+man pwd
+echo hola
+echo $home
+who
+w
+ls
+ls -l
+ls -la
+cd repogit
+nkdir clase4
+ls -l
+cd clase4
+mkdir clase4
+ls -l
+cd clase4
+ls -l
+echo lineal
+echo lineal>archiol.txt
+ls -1
+echo lineal>archivo1.txt
+ls -l
+cat archivo1.txt 
+ls
+cd ..
+ls -l
+clear
+ls -l
+cd 
+mkdir repogit
+cd repogit
+git clone git@github.com:karenlencina/TP_AySO_Lencina_Karen.git
+ls -l
+cd TP_AySO_Lencina_Karen/
+ls -l
+cat/etc/os-release
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release 
+grep home_url /etc/os-release 
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release >
+datos_url.txt
+grep -i Home_url/etc/os-release >datos
+grep -i Home_url/etc/os-release > datos_url.txt
+whoami
+ls -l
+echo “Lencina-Karen=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.email "karenlencinautn@gmail."
+git config --global user.name "KarenLencina"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt" 
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+ls -l
+grep "model name"/proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat <<EOF >> README.md
+Alumno : Karen Lencina
+Division : 114
+Turno : Mañana
+EOF
+
+git add README.md datos_usuarios.tx
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+ls -l
+git add README.md datos_usuario.txt
+ls -l
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/materia{1,2}/uni{1,2,3} 
+ls -l
+vim script_dir.sh
+ls -l
+cd repogit
+ls -l
+cd TP_AySO_Lencina_Karen/
+chmod 700 script_dir.sh
+vim script_dir.sh
+chmod 700 script_dir.sh
+git add 
+git add .
+git commit -m "ADD:Añadiendo script"
+git push
+history -a
