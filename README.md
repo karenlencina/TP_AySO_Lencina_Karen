@@ -1,4 +1,4 @@
-# TP_AySO_Lencina_Karen
+# TP_AySO_Lencina
 TP1
 Alumno : Karen Lencina
 Division : 114
